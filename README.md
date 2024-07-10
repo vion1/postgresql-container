@@ -1,6 +1,7 @@
 # PostgreSQL Container Images
 
 [![Build and push images to Quay.io registry](https://github.com/sclorg/postgresql-container/actions/workflows/build-and-push.yml/badge.svg)](https://github.com/sclorg/postgresql-container/actions/workflows/build-and-push.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvion1%2Fpostgresql-container.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvion1%2Fpostgresql-container?ref=badge_shield)
 
 Images available on Quay.io are:
 
@@ -144,3 +145,7 @@ The test command is utilized from the `common` submodule. While it is possible t
 ## Enabling SSL/TLS for PostgreSQL container
 
 For comprehensive information and instructions on enabling SSL/TLS, please refer to the `examples/enable-ssl/README.md`.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvion1%2Fpostgresql-container.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvion1%2Fpostgresql-container?ref=badge_large)
